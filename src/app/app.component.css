@@ -1,0 +1,17 @@
+.main__box{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin: 0 auto;
+  gap: 20px;
+  width: 350px;
+}
+
+p, h1{
+  text-align: center;
+}
+
+h1{
+  font-weight: 700;
+  font-size: 18px;
+}
